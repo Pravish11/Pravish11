@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello
 
-<!--
-**Pravish11/Pravish11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You are welcome my world. 👋
 
-Here are some ideas to get you started:
+I am Pravish, a Computer Science student 😎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like coding, problem solving and team collaboration.
+
+I like to create, build and learning new things, briefly I like to discover new things.
+
+Feel free to get in touch.
+
+<a href="https://www.linkedin.com/in/pravish-digumber-92b11a239" target="_blank">LinkedIn</a>
