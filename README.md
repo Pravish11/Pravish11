@@ -1,6 +1,6 @@
 # Hello
 
-You are welcome my world. 👋
+You are welcome to my world. 👋
 
 I am Pravish, a Computer Science student 😎
 
